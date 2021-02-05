@@ -6,6 +6,10 @@ Time Flies is a 2D platform adventure for Windows, macOS and Linux, inspired by 
 
 More details, and the downloadable resources, can be found [here](https://polimi-game-collective.itch.io/time-flies)!
 
+## Screenshots
+![screen](https://img.itch.zone/aW1hZ2UvNzg2MDk0LzQ5NDU3NDEucG5n/original/I6SPje.png)
+![screen2](https://img.itch.zone/aW1hZ2UvNzg2MDk0LzQ5NDU3MzYucG5n/original/Ad2xKu.png)
+
 ## Group members
 - Riccardo Corona, Team Leader & Developer
 - Andrea Calici, Developer
